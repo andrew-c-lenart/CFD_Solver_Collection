@@ -3,7 +3,7 @@ Hi! I'm Andrew, CFD enthusiast. This is my collection of CFD solvers, including 
 
 Feel free to look around, or leave any suggestions with ways I could improve any of my existing codes.
 
-#Collection of solvers
+# Collection of solvers
 
 | Method | Problem Type | Branch | Remarks       |
 |-------------|--------------|--------|-------------|
