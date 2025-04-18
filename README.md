@@ -5,8 +5,8 @@ Feel free to look around, or leave any suggestions with ways I could improve any
 
 # Collection of solvers
 
-| Method | Problem Type | Branch | Remarks       |
+| Method | Problem Type  | Remarks       |
 |-------------|--------------|--------|-------------|
-| Artificial Compressibility      | Lid Driven Cavity         | More   | Incompressible flow |
-| TDMA      | Info         | Here   | Placeholder |
+| Artificial Compressibility      | Lid Driven Cavity         | Incompressible flow |
+| TDMA      | Info         | Placeholder |
 
