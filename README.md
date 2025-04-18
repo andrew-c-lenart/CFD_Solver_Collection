@@ -9,4 +9,5 @@ Feel free to look around, or leave any suggestions with ways I could improve any
 |-------------|--------------|--------|
 | Artificial Compressibility      | Lid Driven Cavity         | Incompressible flow |
 | Projection Method      | Lid Driven Cavity           | Incompressible flow, uses Gauss-Seidel SOR to solve linear systems |
+| LBM     | Lid Driven Cavity           | Incompressible flow, the method still seems like magic to me |
 
