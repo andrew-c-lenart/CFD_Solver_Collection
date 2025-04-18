@@ -1,1 +1,0 @@
-Run the EXECUTABLE.m file to start the solver. Solver for multiple Re and different discretizations
