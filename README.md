@@ -6,7 +6,7 @@ Feel free to look around, or leave any suggestions with ways I could improve any
 # Collection of solvers
 
 | Method | Problem Type  | Remarks       |
-|-------------|--------------|--------|-------------|
+|-------------|--------------|--------|
 | Artificial Compressibility      | Lid Driven Cavity         | Incompressible flow |
 | TDMA      | Info         | Placeholder |
 
